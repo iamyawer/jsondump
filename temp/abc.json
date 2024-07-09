@@ -1,1 +1,8 @@
 
+{
+    "urls": [
+        "https://example.com",
+        "https://another-example.com",
+        "https://yet-another-example.com"
+    ]
+}
